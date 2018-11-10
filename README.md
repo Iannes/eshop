@@ -1,4 +1,2 @@
-# Advanced-React
 
-frontend
-# eshop
+# E-shop
